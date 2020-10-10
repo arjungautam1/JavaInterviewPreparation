@@ -5,7 +5,7 @@ public class ForLoopExample {
     public static void main(String[] args) {
         System.out.println("Numbers from 1-10");
         int i;
-        for (i = 0; i <=10; i++) {
+        for (i = 0; i <= 10; i++) {
             System.out.println(i);
         }
     }
