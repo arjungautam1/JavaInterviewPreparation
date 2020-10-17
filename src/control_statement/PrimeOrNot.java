@@ -1,3 +1,5 @@
+package control_statement;
+
 import java.util.Scanner;
 
 //To check whether the entered number is prime or not.

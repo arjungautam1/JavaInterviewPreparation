@@ -1,3 +1,5 @@
+package control_statement;
+
 public class PrimeNumbers {
     //    program to check whether the entered number is prime or not
     public static void main(String[] args) {

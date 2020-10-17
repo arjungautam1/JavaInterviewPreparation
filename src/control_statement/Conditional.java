@@ -1,3 +1,5 @@
+package control_statement;
+
 import java.util.Scanner;
 
 //Program to display whether the number is odd or even
