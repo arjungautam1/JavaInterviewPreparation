@@ -1,0 +1,12 @@
+package method_overriding.bank_example;/*
+ * Created By Arjun Gautam .
+ * Date : 10/18/20
+ * Time : 7:31 PM
+ */
+
+public class Nabil extends Bank {
+    int getRateOfInterest()
+    {
+        return 9;
+    }
+}
