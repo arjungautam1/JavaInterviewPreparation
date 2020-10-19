@@ -4,7 +4,7 @@ package binding.static_;/*
  * Time : 7:08 AM
  */
 //When type of object is determined at compiled time(by the compiler) , it is known as static binding
-//If there is any private ,final or static method in a class , there is static binfing
+//If there is any private ,final or static method in a class , there is static binding
 
 public class Dog {
     private void eat(){
