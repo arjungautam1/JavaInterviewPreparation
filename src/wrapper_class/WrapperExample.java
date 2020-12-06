@@ -4,6 +4,7 @@ package wrapper_class;
 
 public class WrapperExample {
     public static void main(String[] args) {
+
         //Converting int into Integer
         int a=20;
         Integer i=Integer.valueOf(a); //Converting int into Integer explicitly
@@ -15,9 +16,6 @@ public class WrapperExample {
         int c=b.intValue();
         int d=b;
         System.out.println(b+" "+c+" "+d);
-
-
-
 
     }
 }
