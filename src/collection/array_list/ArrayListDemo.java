@@ -4,7 +4,7 @@
  * Time: 12:01
  * Project Name : JavaEssential
  */
-package array_list;
+package collection.array_list;
 
 import java.util.ArrayList;
 
