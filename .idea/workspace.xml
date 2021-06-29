@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42fdb5f9-63af-45a1-8995-826daf19a13b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPreparation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/verisk_interview_prepation/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/verisk_interview_prepation/FindMinimumArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/abstraction/bank/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/abstraction/bank/NIC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/abstraction/bank/NMB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/abstraction/bank/TestBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/abstraction/interface_impl/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/abstraction/interface_impl/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/abstraction/interface_impl/M.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/abstraction/interface_impl/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/abstraction/shape/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/abstraction/shape/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/abstraction/shape/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/abstraction/shape/TestAbstraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/access_modifier/default_modifier/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/access_modifier/default_modifier_main/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/access_modifier/private_modifier/A$Simple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/access_modifier/private_modifier/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/aggregation/address_example/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/aggregation/address_example/Emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/aggregation/circle_example/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/aggregation/circle_example/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/binding/dynamic/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/binding/dynamic/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/binding/static_/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/break_continue/BreakDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/break_continue/Continue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/calculator/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/class_object/HumanBeings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/class_object/Humans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/class_object/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/class_object/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/collection/array_list/ArrayListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/collection/hashset/HashSetExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/collection/linkedlist/LinkedListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/collection/map/HashMapExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/collection/treeset/TreeSetExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/constructor/default_constructor/Constructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/constructor/default_constructor/DefaultConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/constructor/parameterized/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/constructor_overloading/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/control_statement/Conditional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/control_statement/DisplayPrimeNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/control_statement/EvenNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/control_statement/ForLoopExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/control_statement/PrimeNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/control_statement/PrimeOrNot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/coursera/Condition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/coursera/Function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/coursera/Mix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/covarient_return_type/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/covarient_return_type/B1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/deerwalk_interview_preparation/DatabaseConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/deerwalk_interview_preparation/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/exception/ThrowExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/exception/ThrowsKeywordExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/final_keyword/class_final/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/final_keyword/inherit_final/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/final_keyword/inherit_final/Honda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/final_keyword/method/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/final_keyword/method/Honda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/final_keyword/variable/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/final_keyword_blank/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/final_keyword_blank/final_parameter/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/final_keyword_blank/static_blank/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/garbage_collection/TestGarbage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/inheritance/heirarchical/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/inheritance/heirarchical/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/inheritance/heirarchical/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/inheritance/heirarchical/Heirarchal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/inheritance/multilevel/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/inheritance/multilevel/BabyDog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/inheritance/multilevel/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/inheritance/multilevel/MultiLevelInheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/inheritance/single/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/inheritance/single/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/inheritance/single/SingleInheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/inheritance/sub_super_class/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/inheritance/sub_super_class/Programmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/interface_example/abstract_interface/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/interface_example/abstract_interface/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/interface_example/abstract_interface/M.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/interface_example/abstract_interface/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/interface_example/bank/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/interface_example/bank/NIC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/interface_example/bank/NMB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/interface_example/bank/TestInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/interface_example/basic/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/interface_example/basic/printable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/interface_example/multiple_inheritance/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/interface_example/multiple_inheritance/Printable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/interface_example/multiple_inheritance/Showable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/interview_questions/InterviewQuestion01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/interview_questions/InterviewQuestion02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/interview_questions/InterviewQuestion03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/interview_questions/ReverseInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/lamda/LamdaDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/method_overloading/changing_data_types/Adder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/method_overloading/changing_data_types/ChageDataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/method_overloading/changing_no_args/Adder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/method_overloading/changing_no_args/MethodOverloadingArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/method_overriding/bank_example/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/method_overriding/bank_example/MethodOverriding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/method_overriding/bank_example/NIC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/method_overriding/bank_example/NMB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/method_overriding/bank_example/Nabil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/method_overriding/bike_example/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/method_overriding/bike_example/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/multithreading/ExtendingThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/multithreading/RunnableInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/palindrome/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/static_keyword/method/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/static_keyword/variable/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/super_keyword/parent_class_constructor/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/super_keyword/parent_class_constructor/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/super_keyword/parent_class_constructor/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/super_keyword/parent_class_method/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/super_keyword/parent_class_method/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/super_keyword/parent_class_method/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/super_keyword/parent_instance_variable/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/super_keyword/parent_instance_variable/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/super_keyword/parent_instance_variable/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/super_keyword/real_use/Emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/super_keyword/real_use/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/super_keyword/real_use/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/this_keyword/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/toString/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/type_conversion/StringToInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/verisk_interview_prepation/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/verisk_interview_prepation/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/verisk_interview_prepation/Recursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/verisk_interview_prepation/ReverString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/verisk_interview_prepation/Swap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/wrapper_class/WrapperExample.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ubuywl6Y1zXVXqd4RUCGGz1mub" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.FindMinimumArray">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="verisk_interview_prepation.Array" />
+      <module name="JavaInterviewPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="verisk_interview_prepation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMinimumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="verisk_interview_prepation.FindMinimumArray" />
+      <module name="JavaInterviewPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="verisk_interview_prepation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindMinimumArray" />
+        <item itemvalue="Application.Array" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42fdb5f9-63af-45a1-8995-826daf19a13b" name="Default Changelist" comment="" />
+      <created>1624946870354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624946870354</updated>
+      <workItem from="1624954093963" duration="3836000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/verisk_interview_prepation/Factorial.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
